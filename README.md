@@ -248,5 +248,3 @@ The cost-of-living is not available in our dataset, so we recommend further rese
 + Natural resource taxes (e.g., North Dakota)
 
 The cost-of-living is not available in our dataset, so we recommend further research on this problem.
-
-ions
